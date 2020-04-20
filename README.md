@@ -1,2 +1,2 @@
-# Knapsack Problem Using Genetic Algorithms
+# Knapsack
 Solving the knapsack problem using genetic algorithms
