@@ -15,7 +15,7 @@ Knapsack
 - **Pandas** — A library created for the Python language for data manipulation and analysis
 - **Matplotlib**  — A library for creating graphs and data visualizations in general
 
-## 🚀 Getting started with the app
+## 🚀 Getting started
 
 1. Clone this repo using `git clone https://github.com/victor3r/knapsack.git`
 2. Move yourself to the appropriate directory: `cd knapsack`<br />
